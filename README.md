@@ -1,4 +1,4 @@
 <http>
-<head>sample</head>
+<head>   sample  </head>
 <body>test</test>
 </http>
